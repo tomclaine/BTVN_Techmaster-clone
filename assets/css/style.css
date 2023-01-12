@@ -54,6 +54,8 @@
     text-decoration: none;
     color: #fff;
 }
+.nav__menu li a:hover{
+    color:rgb(177, 177, 177);
 .nav__menu li a i{
     font-size: 20px;
 }
